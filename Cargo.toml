@@ -1,0 +1,9 @@
+[package]
+name = "cribbage-scoring"
+version = "0.1.0"
+description = "A Rust library for Cribbage Scoring"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/casey-digennaro/cribbage-scoring"
+edition = "2021"
+
+[dependencies]
